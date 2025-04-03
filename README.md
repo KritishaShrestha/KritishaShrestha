@@ -27,3 +27,6 @@ I'm an undergraduate student currently studying in 5ᵗʰ semester.
 
 ## Github Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KritishaShrestha&theme=dark)
+
+## Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KritishaShrestha&theme=github)
