@@ -29,4 +29,4 @@ I'm an undergraduate student currently studying in 5ᵗʰ semester.
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KritishaShrestha&theme=dark)
 
 ## Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=KritishaShrestha&theme=github)
+![Contribution Snake](https://raw.githubusercontent.com/KritishaShrestha/KritishaShrestha/output/github-contribution-grid-snake.svg)
