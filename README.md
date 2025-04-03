@@ -25,8 +25,4 @@ I'm an undergraduate student currently studying in 5ᵗʰ semester.
 ## Repo Contributions
 ![Kritisha's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KritishaShrestha&hide=B&theme=dark)
 
-## Github Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=KritishaShrestha&theme=dark)
 
-## Activity Graph
-![Contribution Snake](https://raw.githubusercontent.com/KritishaShrestha/KritishaShrestha/output/github-contribution-grid-snake.svg)
