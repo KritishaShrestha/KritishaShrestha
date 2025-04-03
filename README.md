@@ -6,4 +6,4 @@ I'm an undergraduate student currently studying in 5ᵗʰ semester.
 
 [![Kritisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritishaShrestha)](https://github.com/KritishaShrestha/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=KritishaShrestha&layout=compact
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritishaShrestha&layout=compact)
