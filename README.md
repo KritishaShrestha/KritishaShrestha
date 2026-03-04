@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Kritisha Shrestha</h1>
-<h3 align="center">I'm on a journey to become a QA Engineer—where clean code meets great user experience. Currently learning the art of breaking things (methodically, of course).</h3>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 𝐇i 𝐭𝐡𝐞𝐫𝐞, I'm Kritisha Shrestha!!! </h1>
+  
+[![Gmail Badge](https://img.shields.io/badge/Mail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kritishashrestha2004@gmail.com)](mailto:kritishashrestha2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0866FF?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kritisha-shrestha-618481254/)](https://www.linkedin.com/in/kritisha-shrestha-618481254/)
 
-- 🔭 I’m currently working on **AI Missing Person Identification System**
-
-- 🌱 I’m currently learning **Jira.**
-
-- 📫 How to reach me **kritishashrestha2004@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<img align='right' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWV2NmIwcjIydHc1bmRxcHdrenI4OTlpNWp3emQ2empmMG40eGJlZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ObSqILboP68zsArMIa/giphy.gif' width='250'>
+<p>
+  I’m a <strong>UI/UX-focused developer</strong> and <strong>BSc.CSIT student</strong> with a strong interest in
+  designing clean, intuitive, and user-friendly digital experiences.
 </p>
+<p>
+  I enjoy working at the intersection of <strong>design and code</strong> — focusing on usability,
+  visual clarity, and thoughtful interfaces rather than just features.
+</p>
+<ul>
+  <li>🚀 Passionate about crafting meaningful digital experiences</li>
+  <li>🧠 Curious learner exploring the balance between aesthetics & functionality</li>
+  <li>🛠️ Love turning ideas into interactive, polished interfaces</li>
+  <li>📖 Always learning, always improving</li>
+  <li>🌱 Growing as a developer & designer</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1> 𝐃𝐞𝐬𝐢𝐠𝐧 & 𝐃𝐞𝐯 𝐒𝐭𝐚𝐜𝐤 </h1>
+
+![My Skills](https://skillicons.dev/icons?i=figma,ae,bootstrap,c,css,discord,fastapi,git,github,html,js,ps,php,postgres,postman,py,tailwind,vscode,wordpress&theme=light)
