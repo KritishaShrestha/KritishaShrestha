@@ -33,7 +33,7 @@ I enjoy ensuring software reliability, usability, and performance by applying st
 ---
 
 ### 💻Tech Stack
-![My Skills](https://skillicons.dev/icons?i=figma,ae,bootstrap,c,css,discord,fastapi,git,github,html,js,ps,php,postgres,postman,py,tailwind,vscode,wordpress&theme=light)
+![My Skills](https://skillicons.dev/icons?i=jira,py,html,css,js,tailwind,git,github,php,postman,vscode,wordpress&theme=light)
 
 ---
 
